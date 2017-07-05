@@ -1,0 +1,7 @@
+﻿  TestLinkStack.c
+  LinkStack.c
+d:\code\数据结构\栈的链式存储\linkstack.c(73): warning C4033: “Size_LinkStack”必须返回值
+  正在生成代码...
+d:\code\数据结构\栈的链式存储\linkstack.c(77): warning C4715: “Size_LinkStack”: 不是所有的控件路径都返回值
+  栈的链式存储.vcxproj -> D:\code\数据结构\Debug\栈的链式存储.exe
+  栈的链式存储.vcxproj -> D:\code\数据结构\Debug\栈的链式存储.pdb (Partial PDB)

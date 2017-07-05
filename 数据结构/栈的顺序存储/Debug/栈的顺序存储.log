@@ -1,0 +1,4 @@
+﻿  TestSeqStack.c
+d:\code\数据结构\栈的顺序存储\testseqstack.c(75): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  栈的顺序存储.vcxproj -> D:\code\数据结构\Debug\栈的顺序存储.exe
+  栈的顺序存储.vcxproj -> D:\code\数据结构\Debug\栈的顺序存储.pdb (Partial PDB)

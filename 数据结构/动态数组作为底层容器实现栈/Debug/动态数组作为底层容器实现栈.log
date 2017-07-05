@@ -1,0 +1,5 @@
+﻿  TestDynamicArray.c
+d:\code\数据结构\动态数组作为底层容器实现栈\testdynamicarray.c(70): warning C4033: “Size_SeqStack”必须返回值
+d:\code\数据结构\动态数组作为底层容器实现栈\testdynamicarray.c(75): warning C4715: “Size_SeqStack”: 不是所有的控件路径都返回值
+  动态数组作为底层容器实现栈.vcxproj -> D:\code\数据结构\Debug\动态数组作为底层容器实现栈.exe
+  动态数组作为底层容器实现栈.vcxproj -> D:\code\数据结构\Debug\动态数组作为底层容器实现栈.pdb (Partial PDB)

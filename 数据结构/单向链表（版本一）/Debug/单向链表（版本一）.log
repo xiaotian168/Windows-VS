@@ -1,0 +1,8 @@
+﻿  LinkList.c
+d:\code\数据结构\单向链表（版本一）\linklist.c(39): warning C4013: “printf”未定义；假设外部返回 int
+d:\code\数据结构\单向链表（版本一）\linklist.c(141): warning C4033: “Get_Value”必须返回值
+d:\code\数据结构\单向链表（版本一）\linklist.c(175): warning C4029: 声明的形参表不同于定义
+d:\code\数据结构\单向链表（版本一）\linklist.c(20): warning C4715: “Init_LinkList”: 不是所有的控件路径都返回值
+d:\code\数据结构\单向链表（版本一）\linklist.c(158): warning C4715: “Get_Value”: 不是所有的控件路径都返回值
+  单向链表（版本一）.vcxproj -> D:\code\数据结构\Debug\单向链表（版本一）.exe
+  单向链表（版本一）.vcxproj -> D:\code\数据结构\Debug\单向链表（版本一）.pdb (Partial PDB)
