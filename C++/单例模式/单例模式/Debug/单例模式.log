@@ -1,0 +1,39 @@
+﻿  TestConfig.cpp
+d:\code\c++\单例模式\单例模式\config.h(8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\code\c++\单例模式\单例模式\config.h(8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\code\c++\单例模式\单例模式\config.h(8): error C2825: 'Config': 当后面跟“::”时必须为类或命名空间
+d:\code\c++\单例模式\单例模式\config.h(8): error C2510: “Config”:“::”的左边必须是类/结构/联合
+d:\code\c++\单例模式\单例模式\config.h(8): error C2061: 语法错误: 标识符“Config”
+d:\code\c++\单例模式\单例模式\testconfig.cpp(14): error C2065: “c1”: 未声明的标识符
+d:\code\c++\单例模式\单例模式\testconfig.cpp(15): error C2065: “c2”: 未声明的标识符
+d:\code\c++\单例模式\单例模式\testconfig.cpp(17): error C2065: “c1”: 未声明的标识符
+d:\code\c++\单例模式\单例模式\testconfig.cpp(18): error C2065: “c2”: 未声明的标识符
+  正在生成代码...
+  正在编译...
+  Config.cpp
+d:\code\c++\单例模式\单例模式\config.h(8): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\code\c++\单例模式\单例模式\config.h(8): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\code\c++\单例模式\单例模式\config.h(8): error C2825: 'Config': 当后面跟“::”时必须为类或命名空间
+d:\code\c++\单例模式\单例模式\config.h(8): error C2510: “Config”:“::”的左边必须是类/结构/联合
+d:\code\c++\单例模式\单例模式\config.h(8): error C2061: 语法错误: 标识符“Config”
+d:\code\c++\单例模式\单例模式\config.cpp(3): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\code\c++\单例模式\单例模式\config.cpp(3): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\code\c++\单例模式\单例模式\config.cpp(3): error C2086: “int Config”: 重定义
+  d:\code\c++\单例模式\单例模式\config.h(8): note: 参见“Config”的声明
+d:\code\c++\单例模式\单例模式\config.cpp(3): error C2371: “pConfig”: 重定义；不同的基类型
+  d:\code\c++\单例模式\单例模式\config.h(17): note: 参见“pConfig”的声明
+d:\code\c++\单例模式\单例模式\config.cpp(3): error C2440: “初始化”: 无法从“Config *”转换为“int *”
+  d:\code\c++\单例模式\单例模式\config.cpp(3): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+d:\code\c++\单例模式\单例模式\config.cpp(9): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\code\c++\单例模式\单例模式\config.cpp(9): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\code\c++\单例模式\单例模式\config.cpp(9): error C2086: “int Config”: 重定义
+  d:\code\c++\单例模式\单例模式\config.h(8): note: 参见“Config”的声明
+d:\code\c++\单例模式\单例模式\config.cpp(10): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\code\c++\单例模式\单例模式\config.cpp(10): error C2556: “int *Config::getInstance(void)”: 重载函数与“Config *Config::getInstance(void)”只是在返回类型上不同
+  d:\code\c++\单例模式\单例模式\config.h(12): note: 参见“Config::getInstance”的声明
+d:\code\c++\单例模式\单例模式\config.cpp(9): error C2371: “Config::getInstance”: 重定义；不同的基类型
+  d:\code\c++\单例模式\单例模式\config.h(12): note: 参见“Config::getInstance”的声明
+d:\code\c++\单例模式\单例模式\config.cpp(10): error C2059: 语法错误:“{”
+d:\code\c++\单例模式\单例模式\config.cpp(10): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\code\c++\单例模式\单例模式\config.cpp(10): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+  正在生成代码...
