@@ -1,0 +1,4 @@
+﻿  main.c
+d:\code\c提高\day02\main.c(46): warning C4090: “return”: 不同的“const”限定符
+  day02.vcxproj -> D:\code\C提高\Debug\day02.exe
+  day02.vcxproj -> D:\code\C提高\Debug\day02.pdb (Partial PDB)

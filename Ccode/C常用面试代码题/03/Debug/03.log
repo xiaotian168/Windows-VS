@@ -1,0 +1,5 @@
+﻿  mian.c
+d:\code\c常用面试代码题\03\mian.c(16): warning C4090: “函数”: 不同的“const”限定符
+d:\code\c常用面试代码题\03\mian.c(37): warning C4716: “strreplace”: 必须返回一个值
+  03.vcxproj -> D:\code\C常用面试代码题\Debug\03.exe
+  03.vcxproj -> D:\code\C常用面试代码题\Debug\03.pdb (Partial PDB)

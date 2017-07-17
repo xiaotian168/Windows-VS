@@ -1,0 +1,10 @@
+﻿  main.c
+d:\code\c提高\day03\main.c(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\c提高\day03\main.c(24): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\c提高\day03\main.c(150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+d:\code\c提高\day03\main.c(40): warning C4715: “sort”: 不是所有的控件路径都返回值
+  day03.vcxproj -> D:\code\C提高\Debug\day03.exe
+  day03.vcxproj -> D:\code\C提高\Debug\day03.pdb (Partial PDB)

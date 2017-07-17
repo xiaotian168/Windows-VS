@@ -1,0 +1,7 @@
+﻿  main.c
+d:\code\排序\排序\main.c(8): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\排序\排序\main.c(10): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\排序\排序\main.c(24): warning C4018: “<”: 有符号/无符号不匹配
+d:\code\排序\排序\main.c(26): warning C4018: “<”: 有符号/无符号不匹配
+  排序.vcxproj -> D:\code\排序\Debug\排序.exe
+  排序.vcxproj -> D:\code\排序\Debug\排序.pdb (Partial PDB)

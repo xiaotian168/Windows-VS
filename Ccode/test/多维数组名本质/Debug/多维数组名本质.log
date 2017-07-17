@@ -1,0 +1,9 @@
+﻿  main.c
+d:\code\test\多维数组名本质\main.c(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[5]”
+d:\code\test\多维数组名本质\main.c(16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int (*)[5]”
+d:\code\test\多维数组名本质\main.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[5]”
+d:\code\test\多维数组名本质\main.c(19): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int (*)[5]”
+d:\code\test\多维数组名本质\main.c(22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int (*)[3][5]”
+d:\code\test\多维数组名本质\main.c(22): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“int (*)[3][5]”
+  多维数组名本质.vcxproj -> D:\code\test\Debug\多维数组名本质.exe
+  多维数组名本质.vcxproj -> D:\code\test\Debug\多维数组名本质.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  dict.c
+d:\code\lib\mydict\mydict\dict.c(72): warning C4018: “<”: 有符号/无符号不匹配
+  mydict.vcxproj -> D:\code\lib\mydict\Debug\mydict.dll
+  mydict.vcxproj -> D:\code\lib\mydict\Debug\mydict.pdb (Partial PDB)

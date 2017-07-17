@@ -1,0 +1,7 @@
+﻿  main4.c
+d:\code\c提高\day04\main4.c(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\code\c提高\day04\main4.c(134): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+  day04.vcxproj -> D:\code\C提高\Debug\day04.exe
+  day04.vcxproj -> D:\code\C提高\Debug\day04.pdb (Partial PDB)

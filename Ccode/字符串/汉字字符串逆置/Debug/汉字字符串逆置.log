@@ -1,0 +1,4 @@
+﻿  main.c
+d:\code\字符串\汉字字符串逆置\main.c(18): warning C4013: “strlen”未定义；假设外部返回 int
+  汉字字符串逆置.vcxproj -> D:\code\字符串\Debug\汉字字符串逆置.exe
+  汉字字符串逆置.vcxproj -> D:\code\字符串\Debug\汉字字符串逆置.pdb (Partial PDB)

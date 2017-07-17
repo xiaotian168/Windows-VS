@@ -1,0 +1,5 @@
+﻿D:\Program Files (x86)\VS2017\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(八进制转十进制.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.c
+d:\code\进制转换\八进制转十进制\main.c(17): warning C4244: “=”: 从“double”转换到“long”，可能丢失数据
+  八进制转十进制.vcxproj -> D:\code\进制转换\Debug\进制转换.exe
+  八进制转十进制.vcxproj -> D:\code\进制转换\Debug\进制转换.pdb (Partial PDB)

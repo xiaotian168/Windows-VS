@@ -1,0 +1,4 @@
+﻿  a.c
+d:\code\test\01\01\a.c(14): error C2057: 应输入常量表达式
+d:\code\test\01\01\a.c(14): error C2466: 不能分配常量大小为 0 的数组
+d:\code\test\01\01\a.c(14): error C2133: “arr”: 未知的大小

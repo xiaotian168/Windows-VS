@@ -1,0 +1,38 @@
+﻿  main.c
+d:\code\test\test\main.c(7): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\code\test\test\main.c(7): note: 请考虑在格式字符串中使用“%zd”
+d:\code\test\test\main.c(15): warning C4133: “初始化”: 从“void **”到“char **”的类型不兼容
+d:\code\test\test\main.c(18): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\code\test\test\main.c(18): note: 请考虑在格式字符串中使用“%zd”
+d:\code\test\test\main.c(16): warning C4101: “pa”: 未引用的局部变量
+d:\code\test\test\main.c(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(48): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(57): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(71): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(102): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\code\test\test\main.c(102): note: 请考虑在格式字符串中使用“%zd”
+d:\code\test\test\main.c(102): warning C4474: printf: 格式字符串中传递的参数太多
+  d:\code\test\test\main.c(102): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+d:\code\test\test\main.c(110): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(112): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(119): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(120): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\string.h(129): note: 参见“strcpy”的声明
+d:\code\test\test\main.c(147): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  d:\code\test\test\main.c(147): note: 请考虑在格式字符串中使用“%lld”
+  d:\code\test\test\main.c(147): note: 请考虑在格式字符串中使用“%Id”
+  d:\code\test\test\main.c(147): note: 请考虑在格式字符串中使用“%I64d”
+d:\code\test\test\main.c(183): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“::size_t”
+  d:\code\test\test\main.c(183): note: 请考虑在格式字符串中使用“%zd”
+d:\code\test\test\main.c(88): warning C4172: 返回局部变量或临时变量的地址: p
+  test.vcxproj -> D:\code\test\x64\Debug\test.exe
+  test.vcxproj -> D:\code\test\x64\Debug\test.pdb (Partial PDB)

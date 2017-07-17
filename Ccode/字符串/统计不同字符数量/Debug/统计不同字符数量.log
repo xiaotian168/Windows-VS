@@ -1,0 +1,6 @@
+﻿  main.c
+d:\code\字符串\统计不同字符数量\main.c(19): warning C4013: “isupper”未定义；假设外部返回 int
+d:\code\字符串\统计不同字符数量\main.c(21): warning C4013: “iswlower”未定义；假设外部返回 int
+d:\code\字符串\统计不同字符数量\main.c(25): warning C4013: “isspace”未定义；假设外部返回 int
+  统计不同字符数量.vcxproj -> D:\code\字符串\Debug\统计不同字符数量.exe
+  统计不同字符数量.vcxproj -> D:\code\字符串\Debug\统计不同字符数量.pdb (Partial PDB)

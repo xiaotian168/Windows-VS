@@ -1,0 +1,4 @@
+﻿  a.c
+d:\code\test\test1\a.c(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  test1.vcxproj -> D:\code\test\Debug\test1.exe
+  test1.vcxproj -> D:\code\test\Debug\test1.pdb (Partial PDB)

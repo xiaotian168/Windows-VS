@@ -1,0 +1,8 @@
+﻿  main.c
+d:\code\test\空指针输出测试\main.c(36): warning C4476: "scanf": 格式说明符中的类型字段字符“-”未知
+d:\code\test\空指针输出测试\main.c(36): warning C4474: scanf: 格式字符串中传递的参数太多
+  d:\code\test\空指针输出测试\main.c(36): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+d:\code\test\空指针输出测试\main.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+  空指针输出测试.vcxproj -> D:\code\test\Debug\空指针输出测试.exe
+  空指针输出测试.vcxproj -> D:\code\test\Debug\空指针输出测试.pdb (Partial PDB)

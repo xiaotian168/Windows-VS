@@ -1,0 +1,7 @@
+﻿  main.c
+d:\code\test\文件io测试\main.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(1269): note: 参见“scanf”的声明
+d:\code\test\文件io测试\main.c(16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: 参见“fopen”的声明
+  文件IO测试.vcxproj -> D:\code\test\Debug\文件IO测试.exe
+  文件IO测试.vcxproj -> D:\code\test\Debug\文件IO测试.pdb (Partial PDB)

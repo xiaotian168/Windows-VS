@@ -1,0 +1,6 @@
+﻿  main01.c
+d:\code\数据结构预习\顺序表线性存储设计\main01.c(17): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  list.c
+  正在生成代码...
+  顺序表线性存储设计.vcxproj -> D:\code\数据结构预习\Debug\顺序表线性存储设计.exe
+  顺序表线性存储设计.vcxproj -> D:\code\数据结构预习\Debug\顺序表线性存储设计.pdb (Partial PDB)
